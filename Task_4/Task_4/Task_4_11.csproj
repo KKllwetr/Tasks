@@ -61,6 +61,7 @@
     <Compile Include="Stonemasons.cs" />
     <Compile Include="Techniques\ConstructionCrane.cs" />
     <Compile Include="Techniques\Truck.cs" />
+    <Compile Include="World.cs" />
     <EmbeddedResource Include="MainForm.resx">
       <DependentUpon>MainForm.cs</DependentUpon>
     </EmbeddedResource>

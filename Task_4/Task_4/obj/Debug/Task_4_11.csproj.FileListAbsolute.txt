@@ -8,3 +8,13 @@ C:\Users\Valentin\source\repos\Task_4\Task_4\bin\Debug\Task_4.exe
 C:\Users\Valentin\source\repos\Task_4\Task_4\bin\Debug\Task_4.pdb
 C:\Users\Valentin\source\repos\Task_4\Task_4\obj\Debug\Task_4.exe
 C:\Users\Valentin\source\repos\Task_4\Task_4\obj\Debug\Task_4.pdb
+C:\Users\Valentin\source\repos\3 семестр\Task_4\Task_4\bin\Debug\Task_4.exe.config
+C:\Users\Valentin\source\repos\3 семестр\Task_4\Task_4\bin\Debug\Task_4.exe
+C:\Users\Valentin\source\repos\3 семестр\Task_4\Task_4\bin\Debug\Task_4.pdb
+C:\Users\Valentin\source\repos\3 семестр\Task_4\Task_4\obj\Debug\Task_4_11.csprojAssemblyReference.cache
+C:\Users\Valentin\source\repos\3 семестр\Task_4\Task_4\obj\Debug\Task_4.MainForm.resources
+C:\Users\Valentin\source\repos\3 семестр\Task_4\Task_4\obj\Debug\Task_4.Properties.Resources.resources
+C:\Users\Valentin\source\repos\3 семестр\Task_4\Task_4\obj\Debug\Task_4_11.csproj.GenerateResource.cache
+C:\Users\Valentin\source\repos\3 семестр\Task_4\Task_4\obj\Debug\Task_4_11.csproj.CoreCompileInputs.cache
+C:\Users\Valentin\source\repos\3 семестр\Task_4\Task_4\obj\Debug\Task_4.exe
+C:\Users\Valentin\source\repos\3 семестр\Task_4\Task_4\obj\Debug\Task_4.pdb

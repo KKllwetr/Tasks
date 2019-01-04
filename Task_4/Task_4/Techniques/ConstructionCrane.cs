@@ -13,7 +13,7 @@ namespace Task_4.Techniques
         double productivity= 3;
 
         public bool OpenTo() => open;
-        public uint Speed { get {return speed; } set { if (value>0) speed = value; } }
+        public uint Speed { get {return speed; } set { if (value > 0) speed = value; } }
         public double Productivity { get { return productivity; } set { if (value > 0) productivity = value; } } 
     }
 }

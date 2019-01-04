@@ -26,7 +26,6 @@ namespace Task_4
         Colour c;
         bool roof;
         uint apartments;
-        static Semaphore sem = new Semaphore(4, 4);
         double totalresource;
         bool end;
         double progress;//прогресс 0-100 %
