@@ -35,7 +35,7 @@ namespace Task7
             ReloadChartSeries();
             StockChart.XAxis.AutoRange = SciChart.Charting.Visuals.Axes.AutoRange.Once;
             indicatorChar.XAxis.AutoRange = SciChart.Charting.Visuals.Axes.AutoRange.Once;
-            LoadDataSource(new Message(new LoaderXL(@"C:\Users\Valentin\Downloads\Task7-master\prices.xlsx")));
+            LoadDataSource(new Message(new LoaderXL(@"C:\Users\Valentin\Documents\GitHub\Tasks\Task7\prices.xlsx")));
             
         }
 
